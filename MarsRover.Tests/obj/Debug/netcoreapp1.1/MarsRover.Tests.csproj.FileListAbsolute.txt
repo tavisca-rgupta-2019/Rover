@@ -1,0 +1,15 @@
+C:\Users\rogupta\source\repos\Rover\MarsRover.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rogupta\source\repos\Rover\MarsRover.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\rogupta\source\repos\Rover\MarsRover.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\rogupta\source\repos\Rover\MarsRover.Tests\bin\Debug\netcoreapp1.1\MarsRover.Tests.deps.json
+C:\Users\rogupta\source\repos\Rover\MarsRover.Tests\bin\Debug\netcoreapp1.1\MarsRover.Tests.runtimeconfig.json
+C:\Users\rogupta\source\repos\Rover\MarsRover.Tests\bin\Debug\netcoreapp1.1\MarsRover.Tests.runtimeconfig.dev.json
+C:\Users\rogupta\source\repos\Rover\MarsRover.Tests\bin\Debug\netcoreapp1.1\MarsRover.Tests.dll
+C:\Users\rogupta\source\repos\Rover\MarsRover.Tests\bin\Debug\netcoreapp1.1\MarsRover.Tests.pdb
+C:\Users\rogupta\source\repos\Rover\MarsRover.Tests\bin\Debug\netcoreapp1.1\MarsRover.dll
+C:\Users\rogupta\source\repos\Rover\MarsRover.Tests\bin\Debug\netcoreapp1.1\MarsRover.pdb
+C:\Users\rogupta\source\repos\Rover\MarsRover.Tests\obj\Debug\netcoreapp1.1\MarsRover.Tests.csprojResolveAssemblyReference.cache
+C:\Users\rogupta\source\repos\Rover\MarsRover.Tests\obj\Debug\netcoreapp1.1\MarsRover.Tests.csproj.CoreCompileInputs.cache
+C:\Users\rogupta\source\repos\Rover\MarsRover.Tests\obj\Debug\netcoreapp1.1\MarsRover.Tests.AssemblyInfo.cs
+C:\Users\rogupta\source\repos\Rover\MarsRover.Tests\obj\Debug\netcoreapp1.1\MarsRover.Tests.dll
+C:\Users\rogupta\source\repos\Rover\MarsRover.Tests\obj\Debug\netcoreapp1.1\MarsRover.Tests.pdb

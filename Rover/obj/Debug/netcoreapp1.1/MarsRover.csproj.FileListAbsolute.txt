@@ -1,0 +1,8 @@
+C:\Users\rogupta\source\repos\Rover\Rover\bin\Debug\netcoreapp1.1\MarsRover.deps.json
+C:\Users\rogupta\source\repos\Rover\Rover\bin\Debug\netcoreapp1.1\MarsRover.dll
+C:\Users\rogupta\source\repos\Rover\Rover\bin\Debug\netcoreapp1.1\MarsRover.pdb
+C:\Users\rogupta\source\repos\Rover\Rover\obj\Debug\netcoreapp1.1\MarsRover.csprojResolveAssemblyReference.cache
+C:\Users\rogupta\source\repos\Rover\Rover\obj\Debug\netcoreapp1.1\MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\rogupta\source\repos\Rover\Rover\obj\Debug\netcoreapp1.1\MarsRover.AssemblyInfo.cs
+C:\Users\rogupta\source\repos\Rover\Rover\obj\Debug\netcoreapp1.1\MarsRover.dll
+C:\Users\rogupta\source\repos\Rover\Rover\obj\Debug\netcoreapp1.1\MarsRover.pdb
